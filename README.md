@@ -1,6 +1,9 @@
 # Note-Taker
 # Note Taker Application
 
+![Note Taker App](/media/one.png
+)
+
 ## Description
 
  This application can be used to write, save, and delete notes entered by an end user.
