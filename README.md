@@ -1,13 +1,13 @@
 # Note-Taker
-# Homework Assignment 11 - Note Taker Application
+# Note Taker Application
 
 ## Description
 
- This application has both a front-end and back-end environment. The code for the front-end of the note taker application was already provided, so the main goal for students was to develop the back-end of the application and connect the developed back-end code to the provided front-end code. The goal of this assignment is to create an application that can be used to write, save, and delete notes entered by an end user.
+ This application can be used to write, save, and delete notes entered by an end user.
 
 ## Live Link
 
-- URL link to deployed application on Heroku - [Note Taker Application on Heroku]()
+https://toasters-note-taker.herokuapp.com/ - URL link to deployed application on Heroku 
 
 ## User Story
 
